@@ -1,5 +1,6 @@
-# Automated-Spreadsheet[![forthebadge made-with-python]
-(http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+# Automated-Spreadsheet
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Build Status](https://travis-ci.com/Paulinakhew/web_trader.svg?branch=master)](https://travis-ci.com/github/Paulinakhew/web_trader)
 [![Coverage Status](https://coveralls.io/repos/github/Paulinakhew/web_trader/badge.svg?branch=master)](https://coveralls.io/github/Paulinakhew/web_trader?branch=master)

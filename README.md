@@ -13,5 +13,5 @@ Let's say you're working on a series of spreadsheets to document a certain task 
 # After
 ![Screenshot (6)](https://user-images.githubusercontent.com/63557848/127712135-e2df8c44-2868-481a-b869-ea1c3d948d15.png)
 # The Process
-In the example above, the user, reduced the prices of the products by 10% in the price column. the program automatically created a new copy of the csv file with the changed prices and a visual BarChart to fully demonstrate the changes carried out!
+In the example above, the user, reduced the prices of the products by 10% in the price column.As a result, the program automatically created a new copy of the csv file with the changed prices and a visual BarChart to fully demonstrate the changes carried out!
 

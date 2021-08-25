@@ -15,3 +15,8 @@ Let's say you're working on a series of spreadsheets to document a certain task 
 # The Process
 In the example above, the user, reduced the prices of the products by 10% in the price column.As a result, the program automatically created a new copy of the csv file with the changed prices and a visual BarChart to fully demonstrate the changes carried out!
 
+
+
+
+
+dsfahsjd asdh asdada;d apd' as/d asdlkasdad////11!!!

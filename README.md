@@ -19,4 +19,3 @@ In the example above, the user, reduced the prices of the products by 10% in the
 
 
 
-ds

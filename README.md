@@ -19,4 +19,4 @@ In the example above, the user, reduced the prices of the products by 10% in the
 
 
 
-dsfahsjd asdh asdada;d apd' as
+dsfahsjd asdh asdada;d apd'
